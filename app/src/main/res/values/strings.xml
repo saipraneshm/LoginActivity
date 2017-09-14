@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstWeek</string>
+    <string name="google_btn_text">Google</string>
+    <string name="log_in_or_signup">Log In or Sign Up</string>
+    <string name="facebook_btn_text">Facebook</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
